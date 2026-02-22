@@ -1,5 +1,5 @@
-torch
+torch>=2.0.0
 torchvision
 onnx
+onnxscript
 onnxruntime
-onnxruntime-quantization
